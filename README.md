@@ -1,6 +1,6 @@
 # Oxygen
 
-Bonjour,
+- Bonjour à tous,
 
 - Je décide de Leak cette Base (Publique) - Base AlmaRP | Le SQL à été débug et refait entierement par moi même !
 
